@@ -1,0 +1,10 @@
+org\example\model\Car.class
+org\example\model\Motorcycle.class
+org\example\repositories\UserRepository.class
+org\example\model\User.class
+org\example\repositories\IUserRepository.class
+org\example\repositories\IVehicleRepository.class
+org\example\app\Main.class
+org\example\repositories\VehicleRepository.class
+org\example\model\Vehicle.class
+org\example\model\Authentication.class
