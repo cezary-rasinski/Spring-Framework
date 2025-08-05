@@ -5,3 +5,8 @@
 -[Task 4](CarRental4/)
 
 -[Task 5](CarRentalHibernate/)
+
+-[Task 6](lb6/)
+
+-[Task 7](lb7/)
+
